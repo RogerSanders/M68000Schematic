@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SchematicAnnotations>
+  <Comments />
+  <Annotations>
+    <Annotation Name="       μROM (Microcode)       " Width="25781.1323652896" Height="3942.43451369116" PosX="15615.3857701682" PosY="26725.2781145678" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="       NROM (Nanocode)       " Width="25876.7065353186" Height="8410.52696254121" PosX="13441.0734020112" PosY="20441.2764351691" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Address&#xD;&#xA;High&#xD;&#xA;Execution&#xD;&#xA;Unit" Width="9631.08568622244" Height="11061.8252348238" PosX="4605.48351390493" PosY="5860.09014295064" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Address&#xD;&#xA;Low&#xD;&#xA;Execution&#xD;&#xA;Unit" Width="10696.9386385362" Height="11033.0183982748" PosX="14827.1093493823" PosY="5346.36822449311" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Data&#xD;&#xA;Execution&#xD;&#xA;Unit" Width="14182.5658609676" Height="11052.2229559741" PosX="27425.2992001538" PosY="3589.15119500288" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="A2/A3&#xD;&#xA;Decode" Width="5853.54918676095" Height="8008.30056062762" PosX="30670.1519690678" PosY="36952.1722672223" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Trap and&#xD;&#xA;Illegal&#xD;&#xA;Instruction&#xD;&#xA;PLA" Width="3387.68397816477" Height="7074.95905643936" PosX="32490.7440389659" PosY="30591.6227571987" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="A1 Decode" Width="4297.98001311379" Height="15037.1686785886" PosX="32427.368998558" PosY="34215.5227950654" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="" Width="2488.91067783536" Height="3180.27475501183" PosX="38868.577650919" PosY="26449.1996614496" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="IRD Register" Width="5173.70784420401" Height="1163.79619658041" PosX="34939.3251456326" PosY="22957.8110717084" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="IRD Bus" Width="21374.672719373" Height="3456.82038588241" PosX="20138.372526746" PosY="16130.5908095905" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="ALU Control" Width="7386.07289116878" Height="8653.57369932569" PosX="32133.539265758" PosY="16914.1367637239" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="" Width="1613.18284674514" Height="6902.11803714525" PosX="25997.6830808167" PosY="23372.6295180142" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="        Control Unit        " Width="27758.2676986359" Height="6994.29991410217" PosX="15195.1193749341" PosY="5898.40246737853" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="" Width="1947.34215071376" Height="21052.036150024" PosX="4807.37411535739" PosY="23130.6520910025" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="Branch&#xD;&#xA;PLA" Width="3537.47952821969" Height="7017.34538334138" PosX="28979.4994729281" PosY="30497.7262973305" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Decode&#xD;&#xA;Drivers" Width="5614.98248919655" Height="2429.17682156729" PosX="16353.3016952079" PosY="40143.3945419416" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="A0 Multiplexer&#xD;&#xA;Control" Width="9477.771861197" Height="2582.38310106962" PosX="25495.6237061588" PosY="38951.7594185202" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Bus&#xD;&#xA;Control&#xD;&#xA;Logic" Width="10632.6264157126" Height="6331.78876441314" PosX="37568.7763130764" PosY="43697.5589898905" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="" Width="1971.2172568456" Height="3783.14423030974" PosX="38624.0744404786" PosY="43996.2282712308" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="Timer and&#xD;&#xA;E Logic" Width="7121.0499949178" Height="5749.84457518445" PosX="5074.66468578152" PosY="41512.4926839678" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Clock Generators" Width="22377.1506312789" Height="1186.84166581966" PosX="17795.7637058289" PosY="38286.1269904775" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="" Width="1325.11448125493" Height="2857.63818566281" PosX="26668.2693629271" PosY="49970.1798947601" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="Interrupt&#xD;&#xA;Logic" Width="2627.18349327064" Height="3514.43405898046" PosX="407.957164840246" PosY="44969.3130698502" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Function&#xD;&#xA;Code Logic" Width="2154.75137386671" Height="1647.75105060399" PosX="1496.85558639319" PosY="42543.7774324227" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Function Code&#xD;&#xA;Buffers" Width="5839.73940531467" Height="2120.2183756385" PosX="1245.94822231075" PosY="36893.6950231976" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="Address Buffers" Width="35342.531625262" Height="1971.2172568456" PosX="1306.99436941808" PosY="1504.03990081976" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="Address Buffers" Width="28413.1431161836" Height="1939.66032763403" PosX="16440.7342333177" PosY="-11701.0330753845" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Data Buffers" Width="10140.0064652551" Height="1738.01247179088" PosX="39817.4820928476" PosY="-2698.89665381567" Rotation="90" Layer="0"></Annotation>
+    <Annotation Name="Data Buffers" Width="32600.4011723377" Height="1672.54797550538" PosX="44020.3611362343" PosY="3037.19223441633" Rotation="0" Layer="0"></Annotation>
+    <Annotation Name="Register PC.h" Width="10846.8386166666" Height="276.557403211776" PosX="10981.2341439513" PosY="5319.74385451856" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="High Adder" Width="10852.4662382435" Height="2159.84543031575" PosX="11270.6546821962" PosY="5319.74385451856" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register B.h" Width="10882.2122380076" Height="328.0099433442" PosX="13455.8590686111" PosY="5315.75985575136" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register PC.l" Width="10913.083762087" Height="293.279478754816" PosX="17617.7264085725" PosY="5245.01261306928" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D0.h" Width="10846.8386166666" Height="276.557403211776" PosX="5461.50211205769" PosY="5308.7923242751" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D1.h" Width="10850.0544004248" Height="273.3416194535" PosX="5741.27529902774" PosY="5305.57654051682" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D2.h" Width="10843.6228329083" Height="260.47848442039" PosX="6027.48005351435" PosY="5305.57654051682" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D3.h" Width="10824.3281303586" Height="257.26270066212" PosX="6300.82167296785" PosY="5305.57654051682" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D4.h" Width="10843.6228329083" Height="260.478484420397" PosX="6561.30015738824" PosY="5302.36075675854" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D5.h" Width="10840.40704915" Height="266.910051936946" PosX="6828.21020932519" PosY="5295.92918924199" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D6.h" Width="10837.1912653917" Height="257.262700662114" PosX="7104.76761253697" PosY="5289.49762172544" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D7.h" Width="10833.9754816334" Height="250.831133145565" PosX="7378.10923199047" PosY="5289.49762172544" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A0.h" Width="10827.5439141169" Height="250.831133145564" PosX="7635.37193265258" PosY="5286.28183796716" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A1.h" Width="10817.8965628421" Height="279.773186970055" PosX="7889.41884955642" PosY="5292.71340548371" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A2.h" Width="10817.8965628421" Height="260.478484420396" PosX="8175.62360404303" PosY="5286.28183796716" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A3.h" Width="10811.4649953255" Height="263.694268178675" PosX="8442.53365597998" PosY="5283.06605420888" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A4.h" Width="10808.2492115672" Height="263.694268178671" PosX="8712.6594916752" PosY="5279.85027045061" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A5.h" Width="10817.8965628421" Height="263.694268178671" PosX="8986.0011111287" PosY="5279.85027045061" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A6.h" Width="10814.6807790838" Height="263.694268178663" PosX="9252.91116306565" PosY="5273.41870293405" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register USP.h" Width="10827.5439141169" Height="263.694268178671" PosX="9523.34764029584" PosY="5266.73099546212" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register SSP.h" Width="10814.6807790838" Height="266.910051936945" PosX="9787.04190847451" PosY="5269.9467792204" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Immediate Register.h" Width="10824.3281303586" Height="250.831133145566" PosX="10060.383527928" PosY="5266.73099546212" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Memory Address Register.h" Width="10840.40704915" Height="392.325618509729" PosX="10327.293579865" PosY="5263.51521170385" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A.h" Width="10862.9175354579" Height="241.183781870735" PosX="10726.0507658912" PosY="5266.73099546212" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A.l" Width="10904.7227243155" Height="234.75221435418" PosX="16971.7459812158" PosY="5262.22889820053" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Low Adder" Width="10911.1542918321" Height="1591.81296034686" PosX="15341.3436157696" PosY="5252.58154692571" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A0.l" Width="10788.9545090176" Height="282.988970728331" PosX="24345.5381389438" PosY="5323.32878960778" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A1.l" Width="10779.3071577427" Height="276.557403211778" PosX="24068.980735732" PosY="5320.11300584951" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A2.l" Width="10782.522941501" Height="257.262700662119" PosX="23805.2864675533" PosY="5316.89722209123" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A3.l" Width="10772.8755902262" Height="257.262700662117" PosX="23535.1606318581" PosY="5316.89722209123" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A4.l" Width="10776.0913739845" Height="254.046916903833" PosX="23271.4663636794" PosY="5307.2498708164" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A5.l" Width="10756.7966714348" Height="260.478484420388" PosX="22998.1247442259" PosY="5320.11300584951" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register A6.l" Width="10760.0124551931" Height="266.910051936946" PosX="22724.7831247724" PosY="5316.89722209123" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register USP.l" Width="10737.5019688851" Height="263.694268178666" PosX="22454.6572890772" PosY="5316.89722209123" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register SSP.l" Width="10721.4230500938" Height="260.478484420389" PosX="22187.7472371402" PosY="5316.89722209123" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Immediate Register.l" Width="10714.9914825772" Height="270.12583569523" PosX="21907.9740501702" PosY="5316.89722209123" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register B.l" Width="10859.058594948" Height="273.984776205145" PosX="27117.831045446" PosY="5237.85348370398" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D7.l" Width="10851.3407139281" Height="273.984776205154" PosX="27399.533702671" PosY="5237.85348370398" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D6.l" Width="10855.1996544381" Height="270.125835695228" PosX="27677.3774193861" PosY="5233.99454319405" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D5.l" Width="10843.6228329083" Height="254.690073655492" PosX="27955.2211361012" PosY="5237.85348370398" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D4.l" Width="10839.7638923983" Height="266.266895185297" PosX="28213.7701502666" PosY="5226.27666217418" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D3.l" Width="10839.7638923983" Height="246.972192635646" PosX="28495.4728074916" PosY="5226.27666217418" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D2.l" Width="10847.4817734182" Height="266.26689518529" PosX="28746.3039406372" PosY="5206.98195962453" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D1.l" Width="10824.3281303586" Height="262.407954675378" PosX="29024.1476573523" PosY="5241.71242421391" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D0.l" Width="10839.7638923983" Height="270.125835695217" PosX="29282.6966715177" PosY="5237.85348370398" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Bit Selection Register" Width="4586.95822187491" Height="656.555850648114" PosX="29561.3167625855" PosY="11467.934884902" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Register D" Width="10819.7724367011" Height="428.771167770195" PosX="30887.8275628746" PosY="5286.48388288167" Rotation="0" Layer="1"></Annotation>
+    <Annotation Name="Selected Bit" Width="10837.6379020248" Height="629.757652662476" PosX="30240.2044448883" PosY="5270.85160072338" Rotation="0" Layer="1"></Annotation>
+  </Annotations>
+</SchematicAnnotations>
