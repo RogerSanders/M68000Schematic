@@ -288,5 +288,20 @@
     <Annotation Name="Next bit in register list" Width="10943.5280037875" Height="321.950573021889" PosX="19837.5488276923" PosY="5191.21543962759" Rotation="0" Layer="2"></Annotation>
     <Annotation Name="IRC Register" Width="10913.336682076" Height="388.40207312344" PosX="38974.0140399834" PosY="5303.8408352888" Rotation="0" Layer="1">This register stores the current IRC data</Annotation>
     <Annotation Name="IR Register" Width="10844.1858816062" Height="433.852731405794" PosX="39377.6577212574" PosY="5375.64867826321" Rotation="0" Layer="1">This register stores the current IR buffer</Annotation>
+    <Annotation Name="PSW" Width="1572.18129826811" Height="933.888684405121" PosX="33265.9540491281" PosY="19907.7588059352" Rotation="0" Layer="1">Program Status Word - 5 bits</Annotation>
+    <Annotation Name="Z Flag" Width="865.674206587707" Height="350.817314489552" PosX="33564.7984281378" PosY="19659.2632081717" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="N Flag" Width="866.418651837457" Height="292.347762074653" PosX="33597.6290657739" PosY="19986.5486957575" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="V Flag" Width="864.050052353979" Height="297.220224775904" PosX="33594.0332043452" PosY="20291.0592050997" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="C Flag" Width="865.67420658773" Height="302.092687477137" PosX="33592.4090501115" PosY="20591.5277383431" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="X Flag" Width="868.922515055199" Height="293.971916308403" PosX="33600.5298212802" PosY="20890.3721173528" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="SR (Interrupt Mask)" Width="1679.06475976737" Height="776.219041156588" PosX="19238.9792750861" PosY="19048.4885861411" Rotation="90" Layer="1"></Annotation>
+    <Annotation Name="I0" Width="713.834338473627" Height="490.902656443604" PosX="19907.9148446338" PosY="19540.2660354607" Rotation="0" Layer="2"></Annotation>
+    <Annotation Name="I1" Width="715.622267659574" Height="490.902656443599" PosX="19399.6323783602" PosY="19538.3975783275" Rotation="0" Layer="2"></Annotation>
+    <Annotation Name="I2" Width="728.517780369785" Height="537.385134896165" PosX="18836.4046384061" PosY="19532.0964037121" Rotation="0" Layer="2"></Annotation>
+    <Annotation Name="T Flag" Width="430.725702789983" Height="483.348299963418" PosX="13927.1272791936" PosY="20571.9125975053" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="SR (T Flag)" Width="1195.11765136116" Height="563.256688263822" PosX="14171.9198053042" PosY="20184.8441605184" Rotation="90" Layer="1"></Annotation>
+    <Annotation Name="S Flag" Width="401.490926582519" Height="467.756419319438" PosX="15386.9171044864" PosY="19589.6241169344" Rotation="90" Layer="2"></Annotation>
+    <Annotation Name="SR (S Flag)" Width="519.686300001184" Height="507.612617083614" PosX="15373.810453386" PosY="19528.5774451446" Rotation="90" Layer="1"></Annotation>
+    <Annotation Name="TPEND Flag" Width="477.111547705828" Height="486.466676092223" PosX="14417.0891085867" PosY="20550.5523187533" Rotation="90" Layer="2">Latch which indicates whether a trace is pending at the end of the current macroinstruction.</Annotation>
   </Annotations>
 </SchematicAnnotations>
